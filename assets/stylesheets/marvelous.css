@@ -1,0 +1,30 @@
+*{
+  box-sizing: border-box;
+
+}
+
+body{
+  background-color: lightgreen;
+
+}
+
+#characters{
+  text-align: center;
+
+}
+
+#name td{
+  font-size: 16px;
+  font-weight: bold;
+  padding:2px;
+  float:left;
+}
+
+.container-fluid {
+    padding-left: 350px;
+
+}
+#hero_pic{
+  float_left;
+  margin-left: 350px;
+}
