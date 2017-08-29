@@ -21,10 +21,14 @@ body{
 }
 
 .container-fluid {
-    padding-left: 350px;
+
 
 }
 #hero_pic{
   float_left;
-  margin-left: 350px;
+
+}
+.character img {
+  width: 300px;
+  height:300px;
 }
